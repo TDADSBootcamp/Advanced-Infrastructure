@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "user_admin"
+		},
+		{
+			"path": "infra"
+		},
+		{
+			"path": "docs"
+		}
+	],
+	"settings": {}
+}
